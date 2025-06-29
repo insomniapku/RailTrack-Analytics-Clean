@@ -1,0 +1,13 @@
+debug/main.o
+debug/mainwindow.o
+debug/Time.o
+debug/City.o
+debug/Railway.o
+debug/Trip.o
+debug/Statistics.o
+debug/reportdialog.o
+debug/addtripdialog.o
+debug/qrc_resources.o
+debug/moc_mainwindow.o
+debug/moc_reportdialog.o
+debug/moc_addtripdialog.o

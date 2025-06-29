@@ -1,0 +1,13 @@
+release/main.o
+release/mainwindow.o
+release/Time.o
+release/City.o
+release/Railway.o
+release/Trip.o
+release/Statistics.o
+release/reportdialog.o
+release/addtripdialog.o
+release/qrc_resources.o
+release/moc_mainwindow.o
+release/moc_reportdialog.o
+release/moc_addtripdialog.o
